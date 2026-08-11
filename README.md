@@ -158,27 +158,12 @@ PMS SaaS real en producción para gestión de alquiler vacacional (1-200 propied
 
 ## 🎯 Objetivos
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#d4af37', 'primaryTextColor':'#0a192f', 'primaryBorderColor':'#0a192f', 'lineColor':'#d4af37', 'secondaryColor':'#0d1b2a', 'tertiaryColor':'#fff'}}}%%
-mindmap
-  root((Desarrollo
-    Profesional))
-    Frontend
-      Angular avanzado
-      Testing e2e
-      TypeScript avanzado
-    Backend
-      Microservicios Java
-      Testing automatizado
-      CI/CD pipelines
-    SAP
-      RAP en profundidad
-      Fiori Elements
-    Soft Skills
-      Documentación técnica
-      Code reviews
-      Trabajo en equipo
-```
+| Área | Próximos pasos |
+|---|---|
+| **Frontend** | Angular avanzado (signals, SSR) · testing e2e (Playwright/Cypress) · TypeScript avanzado |
+| **Backend** | Microservicios en Java · testing automatizado · pipelines CI/CD |
+| **SAP** | RAP en profundidad · Fiori Elements |
+| **Soft skills** | Documentación técnica · code reviews · trabajo en equipo |
 
 ---
 
