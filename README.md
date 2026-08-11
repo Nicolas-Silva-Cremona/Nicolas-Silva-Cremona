@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Angular+%26+React+%2B+Java+%26+Python+%26+PHP;Formaci%C3%B3n+en+curso%3A+SAP+ABAP+Cloud+(CDS+Views+%C2%B7+RAP);Construyendo+APIs+REST+robustas+y+testeadas;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+desarrollador+junior%2Fmid)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Angular+%26+React+%2B+Java+%26+Python+%26+PHP;Formaci%C3%B3n+en+curso%3A+SAP+ABAP+Cloud+(CDS+Views+%C2%B7+RAP);Construyendo+APIs+REST+robustas+y+testeadas;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+desarrollador+junior%2Fmid)](https://git.io/typing-svg)
 
 </div>
 
@@ -151,7 +151,7 @@ PMS SaaS real en producción para gestión de alquiler vacacional (1-200 propied
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNicolas-Silva-Cremona&label=repositorios&query=%24.public_repos&color=d4af37&style=flat-square&labelColor=0d1b2a)
 ![Followers](https://img.shields.io/github/followers/Nicolas-Silva-Cremona?label=followers&color=d4af37&style=flat-square&labelColor=0d1b2a)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Silva-Cremona&background=0D1B2A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8892B0&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Nicolas-Silva-Cremona&background=0D1B2A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8892B0&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
