@@ -5,8 +5,8 @@
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nicolas-Silva-Cremona&color=d4af37&style=flat&label=visitas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1b2a?style=flat-square&logo=linkedin&logoColor=d4af37&labelColor=0d1b2a)](#)
-[![Email](https://img.shields.io/badge/Email-Contactar-0d1b2a?style=flat-square&logo=gmail&logoColor=d4af37&labelColor=0d1b2a)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1b2a?style=flat-square&logo=linkedin&logoColor=d4af37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicolas-silva-cremona-567912311)
+[![Email](https://img.shields.io/badge/Email-Contactar-0d1b2a?style=flat-square&logo=gmail&logoColor=d4af37&labelColor=0d1b2a)](mailto:nsilvacremona@gmail.com)
 
 </div>
 
@@ -78,6 +78,6 @@ $ cat perfil.json
 ## $ contact --info
 
 - **GitHub:** [@Nicolas-Silva-Cremona](https://github.com/Nicolas-Silva-Cremona)
-- **Email:** _añadir email de contacto profesional_
-- **LinkedIn:** _añadir enlace de LinkedIn_
+- **Email:** [nsilvacremona@gmail.com](mailto:nsilvacremona@gmail.com)
+- **LinkedIn:** [nicolas-silva-cremona](https://www.linkedin.com/in/nicolas-silva-cremona-567912311)
 
