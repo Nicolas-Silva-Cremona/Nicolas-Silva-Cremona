@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Angular+%26+React+%2B+Java+%26+Python+%26+PHP;Formaci%C3%B3n+en+curso%3A+SAP+ABAP+Cloud+(CDS+Views+%C2%B7+RAP);Construyendo+APIs+REST+robustas+y+testeadas;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+desarrollador+junior%2Fmid)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Angular+%26+React+%2B+Java+%26+Python+%26+PHP;Ahora+mismo+aprendiendo+SAP+ABAP+Cloud+(CDS+%C2%B7+RAP);Construyo+APIs+de+verdad%2C+con+tests+que+pasan;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+junior%2Fmid)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,14 +23,11 @@
 
 > *"El código es poesía, pero solo si alguien más puede leerlo"*
 
-Soy **Nicolás Silva Cremona**, desarrollador **full-stack** enfocado en **Angular** para frontend y **Java (Spring Boot)** para backend — la combinación a la que aplico activamente — con experiencia práctica también en **React**, **Python** y **PHP**. Actualmente ampliando mi perfil con formación en **SAP ABAP Cloud** (CDS Views y el modelo RAP), una perspectiva poco habitual en un perfil junior: entender tanto el desarrollo web moderno como el mundo de sistemas de gestión empresarial SAP.
+Soy Nicolás. Programo sobre todo con Angular y Java/Spring Boot, que es donde más cómodo me siento y a lo que estoy aplicando ahora mismo, pero también me manejo con React, Python y PHP — cuatro años tocando distintos stacks te dejan sin excusa para no entender de todo un poco. Ahora mismo estoy metiéndome en SAP ABAP Cloud (CDS Views, RAP), que es un mundo bastante distinto al desarrollo web "normal" y me está gustando más de lo que esperaba.
 
-- 🎯 **Especialización:** Full-Stack (Angular/React + Java/Spring Boot, APIs REST, autenticación, arquitectura en capas)
-- 🔧 **Stack principal:** Angular, TypeScript, Java, Spring Boot
-- 🧩 **También trabajo con:** React, Python (FastAPI), PHP
-- 🌱 **Formándome en:** SAP ABAP Cloud (CDS Views, RAP), Docker, CI/CD
-- 💡 **Filosofía:** Código limpio > código complejo — si no tiene tests, no está terminado
-- 🏋️ **Fuera del código:** Deporte y nutrición para mantener el foco
+No tengo una lista bonita de superpoderes que ofrecerte. Lo que sí tengo es este perfil: proyectos que compilan, tests que pasan de verdad (los he corrido yo, no son de adorno) y código que intento que se entienda sin necesitar explicación. Si algo no funciona en un repo, probablemente sea porque me falta pulirlo, no porque esté fingiendo que existe.
+
+Fuera del teclado, gimnasio y cuidar lo que como — más que nada porque si no me muevo un rato me quedo pegado a la pantalla el día entero.
 
 ---
 
@@ -60,10 +57,10 @@ Soy **Nicolás Silva Cremona**, desarrollador **full-stack** enfocado en **Angul
 <td width="50%">
 
 ### 🅰️ Gestor de Inventario — Angular
-Dashboard de gestión de inventario y pedidos
-- **Stack:** Angular 18 standalone, RxJS, Material
-- **Features:** JWT + guards/interceptors, formularios reactivos, dashboard con gráficas
-- **Verificado:** build de producción sin errores
+Un dashboard de inventario y pedidos, hecho para parecerse a algo que usaría un negocio real, no otro to-do list más.
+- **Con:** Angular 18 standalone, RxJS, Material
+- **Tiene:** login con JWT, formularios reactivos, gráficas en el dashboard
+- El build de producción compila limpio, lo comprobé antes de subirlo
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-inventario-angular)
 
@@ -71,10 +68,10 @@ Dashboard de gestión de inventario y pedidos
 <td width="50%">
 
 ### ☕ Gestor de Inventario — API
-API REST en Spring Boot para el mismo dominio
-- **Stack:** Java 17, Spring Boot 3, JPA, PostgreSQL
-- **Features:** JWT, capas separadas, Swagger, Docker
-- **Verificado:** 10/10 tests (JUnit + Mockito) en verde
+El backend que le da de comer al proyecto de Angular.
+- **Con:** Java 17, Spring Boot 3, JPA, PostgreSQL
+- **Tiene:** JWT, capas bien separadas (nada de lógica en el controller), Swagger, Docker
+- 10 tests con JUnit y Mockito, los 10 en verde la última vez que los corrí
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-inventario-api-java)
 
@@ -85,10 +82,10 @@ API REST en Spring Boot para el mismo dominio
 <td width="50%">
 
 ### ⚛️ Rastreador de Gastos — React
-SPA de seguimiento y categorización de gastos
-- **Stack:** React 18, TypeScript, Vite
-- **Features:** import CSV, gráficas de gasto, categorización asistida
-- **Verificado:** build de producción sin errores
+Para llevar la cuenta de en qué se te va el dinero, con algo más de gracia que una hoja de Excel.
+- **Con:** React 18, TypeScript, Vite
+- **Tiene:** import de CSV, gráficas por categoría y por mes, categorización que se sugiere sola
+- Va contra la API de Python de aquí abajo
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/rastreador-gastos-react)
 
@@ -96,10 +93,10 @@ SPA de seguimiento y categorización de gastos
 <td width="50%">
 
 ### 🐍 Rastreador de Gastos — API
-API con categorización automática por reglas
-- **Stack:** FastAPI, SQLAlchemy 2.0, pandas, Alembic
-- **Features:** JWT, import CSV, categorización, estadísticas
-- **Verificado:** 24/24 tests (pytest) en verde
+Categoriza gastos por reglas de texto ("mercadona" → alimentación, ese tipo de cosas), nada de IA innecesaria para un problema que no la necesita.
+- **Con:** FastAPI, SQLAlchemy 2.0, pandas, Alembic
+- **Tiene:** JWT, import de CSV, estadísticas por categoría/mes
+- 24 tests con pytest, todos pasando
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/rastreador-gastos-api-python)
 
@@ -110,10 +107,10 @@ API con categorización automática por reglas
 <td width="50%">
 
 ### 🐘 Gestor de Biblioteca — PHP
-Gestión de biblioteca en PHP clásico, sin framework
-- **Stack:** PHP 8, PDO, MySQL
-- **Features:** MVC ligero manual, préstamos/devoluciones
-- **Verificado:** prepared statements en el 100% de las queries
+PHP sin framework, a propósito: quería demostrar que sé qué hace Laravel por debajo, no solo usarlo.
+- **Con:** PHP 8, PDO, MySQL
+- **Tiene:** MVC hecho a mano, préstamos y devoluciones, CSRF en los formularios
+- Ni una sola query sin prepared statement, revisado a mano una por una
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-biblioteca-php)
 
@@ -121,10 +118,10 @@ Gestión de biblioteca en PHP clásico, sin framework
 <td width="50%">
 
 ### 🧩 SAP RAP — Gestión de Productos
-Managed Business Object en SAP ABAP Cloud
-- **Stack:** CDS Views, Behavior Definitions, RAP
-- **Features:** validaciones, determinaciones, OData Service
-- **Nota:** proyecto de aprendizaje, documentado paso a paso
+Mi primer Business Object completo con el modelo RAP.
+- **Con:** CDS Views, Behavior Definitions
+- **Tiene:** una validación (nada de precios negativos) y una determinación (SKU automático)
+- Es material de aprendizaje, lo digo claramente en el README — no he podido probarlo en un sistema real
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/sap-rap-gestion-productos-abap)
 
@@ -136,7 +133,7 @@ Managed Business Object en SAP ABAP Cloud
 
 ### 🔒 HostMind — PMS SaaS (showcase)
 
-PMS SaaS real en producción para gestión de alquiler vacacional (1-200 propiedades). Next.js, TypeScript, Tailwind, Prisma, PostgreSQL, asistente de WhatsApp con IA. Proyecto propietario — el repo documenta el producto sin exponer código fuente.
+Este sí es un producto real, no un ejercicio: un SaaS para gestores de alquiler vacacional (de 1 a 200 propiedades), con Next.js, Prisma y un asistente de WhatsApp con IA de por medio. El código es mío y no lo publico, pero el repo cuenta qué hace y por qué.
 
 [![Repo](https://img.shields.io/badge/Ver_Showcase-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/hostmind-showcase)
 
@@ -156,18 +153,22 @@ PMS SaaS real en producción para gestión de alquiler vacacional (1-200 propied
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Lo que quiero aprender a continuación
 
-| Área | Próximos pasos |
+No es una lista cerrada, más bien por dónde creo que voy a tirar:
+
+| Área | Qué me falta |
 |---|---|
-| **Frontend** | Angular avanzado (signals, SSR) · testing e2e (Playwright/Cypress) · TypeScript avanzado |
-| **Backend** | Microservicios en Java · testing automatizado · pipelines CI/CD |
-| **SAP** | RAP en profundidad · Fiori Elements |
-| **Soft skills** | Documentación técnica · code reviews · trabajo en equipo |
+| **Frontend** | Signals de Angular, SSR, y por fin hacer tests e2e en vez de probar todo a mano |
+| **Backend** | Microservicios de verdad (no solo leerlo), y montar un pipeline de CI/CD que use yo mismo |
+| **SAP** | Profundizar en RAP y meterle mano a Fiori Elements |
+| **En general** | Escribir mejor documentación — la mía siempre acaba siendo más corta de lo que debería |
 
 ---
 
-## 💼 Principios de Desarrollo
+## 💼 Cómo trabajo
+
+Puesto en formato código porque al final soy programador, no un experto en manifiestos:
 
 ```typescript
 const myPrinciples = {
@@ -191,22 +192,15 @@ const myPrinciples = {
 
 ---
 
-## 🌟 En qué estoy trabajando ahora
+## 🌟 Ahora mismo
 
-- 🔨 **Portfolio activo:** 6 proyectos fullstack (Angular+Java, React+Python, PHP) con tests verificados
-- 📚 **Estudiando:** SAP ABAP Cloud — CDS Views y el modelo RAP
-- 🎓 **Consolidando:** arquitectura en capas, testing automatizado, Docker
-- 💡 **Buscando:** mi próxima posición como desarrollador fullstack junior/mid
+Acabo de terminar de montar y probar los seis proyectos de este perfil (sí, todos los tests son reales, los corrí uno por uno). En paralelo sigo con el curso de SAP ABAP Cloud, y el resto del tiempo lo dedico a mandar candidaturas y preparar entrevistas técnicas.
 
 ---
 
-## 🤝 Colaboración
+## 🤝 ¿Hablamos?
 
-¿Tienes un proyecto interesante o una vacante donde pueda encajar? ¡Me encantaría saber de ti!
-
-- 💼 Abierto a oportunidades como desarrollador fullstack junior/mid
-- 🌱 Siempre dispuesto a aprender y compartir conocimiento
-- 🔍 Interesado en contribuir a proyectos open source
+Si tienes una vacante donde pueda encajar, o simplemente te ha picado la curiosidad por algún proyecto, escríbeme sin problema. No prometo respuesta inmediata pero sí que la vas a tener.
 
 ---
 
@@ -217,8 +211,6 @@ const myPrinciples = {
 [![Email](https://img.shields.io/badge/Email-nsilvacremona%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d1b2a)](mailto:nsilvacremona@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolas--silva--cremona-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicolas-silva-cremona-567912311)
 [![GitHub](https://img.shields.io/badge/GitHub-Nicolas--Silva--Cremona-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1b2a)](https://github.com/Nicolas-Silva-Cremona)
-
-**Respondo en menos de 24h** ⚡
 
 </div>
 
