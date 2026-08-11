@@ -148,10 +148,9 @@ PMS SaaS real en producción para gestión de alquiler vacacional (1-200 propied
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNicolas-Silva-Cremona&label=repositorios&query=%24.public_repos&color=d4af37&style=flat-square&labelColor=0d1b2a)
-![Followers](https://img.shields.io/github/followers/Nicolas-Silva-Cremona?label=followers&color=d4af37&style=flat-square&labelColor=0d1b2a)
-
-<img src="https://streak-stats.demolab.com/?user=Nicolas-Silva-Cremona&background=0D1B2A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8892B0&hide_border=true" alt="GitHub Streak"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNicolas-Silva-Cremona&label=repositorios&query=%24.public_repos&color=d4af37&style=for-the-badge&labelColor=0d1b2a)
+![Followers](https://img.shields.io/github/followers/Nicolas-Silva-Cremona?label=followers&color=d4af37&style=for-the-badge&labelColor=0d1b2a)
+![Last Commit](https://img.shields.io/github/last-commit/Nicolas-Silva-Cremona/Nicolas-Silva-Cremona?label=%C3%BAltimo%20commit&color=d4af37&style=for-the-badge&labelColor=0d1b2a)
 
 </div>
 
