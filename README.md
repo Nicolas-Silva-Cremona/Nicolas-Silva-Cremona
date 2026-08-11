@@ -34,14 +34,14 @@ Fuera del teclado, gimnasio y cuidar lo que como — más que nada porque si no 
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,java,spring,python,php,mysql,postgres,sqlite,docker,git,github,githubactions,maven,vscode,linux,vite&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,html,css,java,spring,python,php,mysql,postgres,sqlite,docker,git,github,githubactions,maven,vscode,linux,vite&perline=8" alt="skills" />
 </div>
 
 <details>
   <summary><b>📦 Más detalles de mi stack</b></summary>
 
   **Frontend:** Angular (standalone components, RxJS, Angular Material, ngx-charts), React (hooks, Context), TypeScript, Vite, HTML5, CSS3
-  **Backend:** Java 17 + Spring Boot (Spring Security, Spring Data JPA, MapStruct, Lombok), Python + FastAPI (SQLAlchemy 2.0, Alembic, pandas), PHP (clásico con PDO, y con framework)
+  **Backend:** Java 17 + Spring Boot (Spring Security, Spring Data JPA, MapStruct, Lombok), Python + FastAPI (SQLAlchemy 2.0, Alembic, pandas), Node.js, PHP (clásico con PDO, y con framework)
   **Bases de datos:** PostgreSQL, MySQL, SQLite
   **Auth y APIs:** JWT, REST, OpenAPI/Swagger
   **Testing:** JUnit + Mockito, pytest, Jasmine/Karma, Vitest + React Testing Library
