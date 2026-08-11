@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:D4AF37&height=200&section=header&text=Nicol%C3%A1s%20Silva%20Cremona&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Angular%20%C2%B7%20React%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20PHP&descSize=16&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:D4AF37&height=200&section=header&text=Nicol%C3%A1s%20Silva%20Cremona&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%C2%B7%20PHP%20%C2%B7%20Java%20%C2%B7%20JavaScript&descSize=16&descAlignY=55" alt="header"/>
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Angular+%26+React+%2B+Java+%26+Python+%26+PHP;Ahora+mismo+aprendiendo+SAP+ABAP+Cloud+(CDS+%C2%B7+RAP);Construyo+APIs+de+verdad%2C+con+tests+que+pasan;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+junior%2Fmid)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&vCenter=true&random=false&width=750&lines=Desarrollador+Full-Stack+%7C+Python+%2B+PHP+%2B+Java%2C+con+Angular+%26+React+en+aprendizaje+activo;Ahora+mismo+aprendiendo+SAP+ABAP+Cloud+(CDS+%C2%B7+RAP);Construyo+APIs+de+verdad%2C+con+tests+que+pasan;Buscando+mi+pr%C3%B3xima+posici%C3%B3n+como+junior%2Fmid)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 > *"El código es poesía, pero solo si alguien más puede leerlo"*
 
-Soy Nicolás. Programo sobre todo con Angular y Java/Spring Boot, que es donde más cómodo me siento y a lo que estoy aplicando ahora mismo, pero también me manejo con React, Python y PHP — cuatro años tocando distintos stacks te dejan sin excusa para no entender de todo un poco. Ahora mismo estoy metiéndome en SAP ABAP Cloud (CDS Views, RAP), que es un mundo bastante distinto al desarrollo web "normal" y me está gustando más de lo que esperaba.
+Soy Nicolás. Donde más cómodo me siento es en backend: Python, PHP y Java, con JavaScript siempre de por medio. Angular y React los he ido metiendo en el portfolio a propósito, para forzarme a aprenderlos de verdad construyendo algo entero, no solo un tutorial a medias — así que ahí tengo nivel básico/medio, no finjo lo contrario. Ahora mismo estoy metiéndome en SAP ABAP Cloud (CDS Views, RAP), que es un mundo bastante distinto al desarrollo web "normal" y me está gustando más de lo que esperaba.
 
 No tengo una lista bonita de superpoderes que ofrecerte. Lo que sí tengo es este perfil: proyectos que compilan, tests que pasan de verdad (los he corrido yo, no son de adorno) y código que intento que se entienda sin necesitar explicación. Si algo no funciona en un repo, probablemente sea porque me falta pulirlo, no porque esté fingiendo que existe.
 
@@ -34,14 +34,14 @@ Fuera del teclado, gimnasio y cuidar lo que como — más que nada porque si no 
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,html,css,java,spring,python,php,mysql,postgres,sqlite,docker,git,github,githubactions,maven,vscode,linux,vite&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,nodejs,ts,html,css,angular,react,spring,mysql,postgres,sqlite,docker,git,github,githubactions,maven,vscode,linux,vite&perline=8" alt="skills" />
 </div>
 
 <details>
   <summary><b>📦 Más detalles de mi stack</b></summary>
 
-  **Frontend:** Angular (standalone components, RxJS, Angular Material, ngx-charts), React (hooks, Context), TypeScript, Vite, HTML5, CSS3
-  **Backend:** Java 17 + Spring Boot (Spring Security, Spring Data JPA, MapStruct, Lombok), Python + FastAPI (SQLAlchemy 2.0, Alembic, pandas), Node.js, PHP (clásico con PDO, y con framework)
+  **Backend (lo mío):** Python + FastAPI (SQLAlchemy 2.0, Alembic, pandas), PHP (clásico con PDO, y con framework), Java 17 + Spring Boot (Spring Security, Spring Data JPA, MapStruct, Lombok), Node.js
+  **Frontend (en aprendizaje activo):** Angular (standalone components, RxJS, Angular Material, ngx-charts), React (hooks, Context), TypeScript, Vite, HTML5, CSS3
   **Bases de datos:** PostgreSQL, MySQL, SQLite
   **Auth y APIs:** JWT, REST, OpenAPI/Swagger
   **Testing:** JUnit + Mockito, pytest, Jasmine/Karma, Vitest + React Testing Library
@@ -58,19 +58,8 @@ Fuera del teclado, gimnasio y cuidar lo que como — más que nada porque si no 
 <tr>
 <td width="50%">
 
-### 🅰️ Gestor de Inventario — Angular
-Un dashboard de inventario y pedidos, hecho para parecerse a algo que usaría un negocio real, no otro to-do list más.
-- **Con:** Angular 18 standalone, RxJS, Material
-- **Tiene:** login con JWT, formularios reactivos, gráficas en el dashboard
-- El build de producción compila limpio, lo comprobé antes de subirlo
-
-[![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-inventario-angular)
-
-</td>
-<td width="50%">
-
 ### ☕ Gestor de Inventario — API
-El backend que le da de comer al proyecto de Angular.
+API REST de gestión de inventario y pedidos.
 - **Con:** Java 17, Spring Boot 3, JPA, PostgreSQL
 - **Tiene:** JWT, capas bien separadas (nada de lógica en el controller), Swagger, Docker
 - 10 tests con JUnit y Mockito, los 10 en verde la última vez que los corrí
@@ -78,20 +67,20 @@ El backend que le da de comer al proyecto de Angular.
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-inventario-api-java)
 
 </td>
+<td width="50%">
+
+### 🅰️ Gestor de Inventario — Angular
+El frontend de ese mismo backend. Lo construí específicamente para meterle horas de verdad a Angular, más allá de lo básico.
+- **Con:** Angular 18 standalone, RxJS, Material
+- **Tiene:** login con JWT, formularios reactivos, gráficas en el dashboard
+- El build de producción compila limpio, lo comprobé antes de subirlo
+
+[![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/gestor-inventario-angular)
+
+</td>
 </tr>
 
 <tr>
-<td width="50%">
-
-### ⚛️ Rastreador de Gastos — React
-Para llevar la cuenta de en qué se te va el dinero, con algo más de gracia que una hoja de Excel.
-- **Con:** React 18, TypeScript, Vite
-- **Tiene:** import de CSV, gráficas por categoría y por mes, categorización que se sugiere sola
-- Va contra la API de Python de aquí abajo
-
-[![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/rastreador-gastos-react)
-
-</td>
 <td width="50%">
 
 ### 🐍 Rastreador de Gastos — API
@@ -101,6 +90,17 @@ Categoriza gastos por reglas de texto ("mercadona" → alimentación, ese tipo d
 - 24 tests con pytest, todos pasando
 
 [![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/rastreador-gastos-api-python)
+
+</td>
+<td width="50%">
+
+### ⚛️ Rastreador de Gastos — React
+El frontend de esa API. Igual que con Angular, lo hice para practicar React en serio, no solo los hooks básicos.
+- **Con:** React 18, TypeScript, Vite
+- **Tiene:** import de CSV, gráficas por categoría y por mes, categorización que se sugiere sola
+- Va contra la API de Python de aquí al lado
+
+[![Repo](https://img.shields.io/badge/Ver_Código-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Nicolas-Silva-Cremona/rastreador-gastos-react)
 
 </td>
 </tr>
