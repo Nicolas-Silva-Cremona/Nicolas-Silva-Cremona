@@ -11,8 +11,8 @@
 <div align="center">
 
   [![GitHub](https://img.shields.io/badge/GitHub-Nicolas--Silva--Cremona-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1b2a)](https://github.com/Nicolas-Silva-Cremona)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicolas-silva-cremona-567912311)
-  [![Email](https://img.shields.io/badge/Email-nsilvacremona%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d1b2a)](mailto:nsilvacremona@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicol%C3%A1s-silva-cremona-567912311)
+  [![Email](https://img.shields.io/badge/Email-nsilvacremona%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d1b2a)](https://mail.google.com/mail/?view=cm&fs=1&to=nsilvacremona@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=Nicolas-Silva-Cremona&style=for-the-badge&color=d4af37&label=Visitas)](https://github.com/Nicolas-Silva-Cremona)
 
 </div>
@@ -34,16 +34,18 @@ Fuera del teclado, gimnasio y cuidar lo que como — más que nada porque si no 
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,java,spring,python,php,mysql,postgres,docker,git&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,java,spring,python,php,mysql,postgres,sqlite,docker,git,github,githubactions,maven,vscode,linux,vite&perline=8" alt="skills" />
 </div>
 
 <details>
   <summary><b>📦 Más detalles de mi stack</b></summary>
 
-  **Frontend:** Angular (standalone components, RxJS), React (hooks), TypeScript, HTML5, CSS3
-  **Backend:** Java 17 + Spring Boot, Python + FastAPI, PHP (clásico y con framework)
+  **Frontend:** Angular (standalone components, RxJS, Angular Material, ngx-charts), React (hooks, Context), TypeScript, Vite, HTML5, CSS3
+  **Backend:** Java 17 + Spring Boot (Spring Security, Spring Data JPA, MapStruct, Lombok), Python + FastAPI (SQLAlchemy 2.0, Alembic, pandas), PHP (clásico con PDO, y con framework)
   **Bases de datos:** PostgreSQL, MySQL, SQLite
-  **Herramientas:** Git, Docker, Swagger/OpenAPI, JUnit, pytest
+  **Auth y APIs:** JWT, REST, OpenAPI/Swagger
+  **Testing:** JUnit + Mockito, pytest, Jasmine/Karma, Vitest + React Testing Library
+  **Herramientas:** Git, GitHub Actions, Docker, Maven, npm, VS Code, Linux
   **SAP:** ABAP Cloud, CDS Views, RAP (Restful ABAP Programming Model)
 
 </details>
@@ -208,8 +210,8 @@ Si tienes una vacante donde pueda encajar, o simplemente te ha picado la curiosi
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nsilvacremona%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d1b2a)](mailto:nsilvacremona@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolas--silva--cremona-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicolas-silva-cremona-567912311)
+[![Email](https://img.shields.io/badge/Email-nsilvacremona%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d1b2a)](https://mail.google.com/mail/?view=cm&fs=1&to=nsilvacremona@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolas--silva--cremona-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1b2a)](https://www.linkedin.com/in/nicol%C3%A1s-silva-cremona-567912311)
 [![GitHub](https://img.shields.io/badge/GitHub-Nicolas--Silva--Cremona-0d1b2a?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1b2a)](https://github.com/Nicolas-Silva-Cremona)
 
 </div>
